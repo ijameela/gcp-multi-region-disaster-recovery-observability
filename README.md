@@ -70,7 +70,6 @@ Here is a live look at the production dashboard tailored within Grafana, monitor
 * **Disk Space & Availability:** Monitoring partition allocations for database log storage.
 
 ![Grafana Dashboard Live Metrics](./Screenshot%202026-06-19%20221216.png)
-
 ---
 
 ## How to Deploy This Project
