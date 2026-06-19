@@ -69,7 +69,7 @@ Here is a live look at the production dashboard tailored within Grafana, monitor
 * **Memory Footprint:** Continuous tracking of active RAM storage.
 * **Disk Space & Availability:** Monitoring partition allocations for database log storage.
 
-![Grafana Dashboard Live Metrics](./Screenshot%202026-06-19%20221216.png)
+![Grafana Dashboard Live Metrics](dashboard.png)
 ---
 
 ## How to Deploy This Project
