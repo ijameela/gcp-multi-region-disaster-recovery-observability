@@ -68,7 +68,9 @@ Here is a live look at the production dashboard tailored within Grafana, monitor
 * **System Load & CPU Stability:** Monitored idle states and container initializations.
 * **Memory Footprint:** Continuous tracking of active RAM storage.
 * **Disk Space & Availability:** Monitoring partition allocations for database log storage.
+  
   <img width="1916" height="862" alt="dashboard png" src="https://github.com/user-attachments/assets/ffa52cb9-e7b3-4a57-ac9b-c2cb24144d48" />
+  
 ---
 
 ## How to Deploy This Project
